@@ -2,8 +2,8 @@
 
 <p>Se Instalan y se configuran los siguientes servicios:</p>
 
-*Apache
-*Munin
+-Apache
+-Munin
 
 <p>El primer paso es el siguiente:</p>
 
