@@ -14,3 +14,8 @@ Se usa el siguiente comando por consola:
 </pre>
 
 <h2>Segundo paso, Despliegue</h2>
+
+Se crean unas maquinas para el despliegue, en este caso se creará un servidor apache
+
+Para ello usamos el siguiente comando:
+
